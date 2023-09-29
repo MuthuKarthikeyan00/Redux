@@ -1,0 +1,26 @@
+.login__container{
+
+ 
+    width: 100%;
+}
+.login__container >form{
+    width: 40%;
+    padding: 20px;
+    margin:  auto;   
+ 
+}
+.login__container > form>input,textarea,label,button{
+margin: 10px auto;
+left: 25%;
+width: 50%;
+position: relative;
+min-height: 30px;
+}
+.login__container >form >input{
+      padding: 10px;
+      border-radius: 10px;
+}
+.login__container >form >button{
+      background-color:orange;
+}
+
